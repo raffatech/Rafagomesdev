@@ -1,6 +1,6 @@
 - 👋 Olá, sou a Rafaela porém muitos me chamam de Rafa.
 - 👀 Sou nova na plataforma mas estou interessada em aprender com os demais, como dizia Sócrates "Só sei que nada sei"
-- 💞️ Estou cursando o segundo semestre de análise e desenvolvimento de sistemas.
+- 💞️ Estou cursando o segundo semestre de análise e desenvolvimento de sistemas no centro universitário Senac Santo Amaro.
 
 
 <!---
